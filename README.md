@@ -21,11 +21,13 @@
 🎥 Демо
 
  Консольная версия
-<p><img align>="right" src="https://github.com/flasgem-web/practic/blob/main/console_demo.gif" width="500" height="320" /></p>
-
+  <div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2l0MHF4YjYwMHQ1aTI5N2NscWtqazRyejF4MXlyMHVuemY4bjFudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VB2yN6gVGeCuVhPkRX/giphy.gif" width="600"/>
+</div>
  Графическая версия (tkinter)
-<p><img align>="right" src="https://github.com/flasgem-web/practic/blob/main/graph_demo.gif" width="500" height="320" /></p>
-
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJxa2M1b3N0ZTdlemNuM2d6MmZ3cDJ6am01cGUzbGh3cjc4dDBuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CJsmYNKgnljUvmvbmp/giphy.gif" width="600"/>
+</div>
 -----
 
 ⚙️ Технологии / Фишки
