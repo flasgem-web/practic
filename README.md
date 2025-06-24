@@ -21,10 +21,10 @@
 🎥 Демо
 
  Консольная версия
-![Консольная версия]
+<p><img align>="right" src="https://github.com/flasgem-web/practic/blob/main/console_demo.gif" width="500" height="320" /></p>
 
  Графическая версия (tkinter)
-![Графическая версия]
+<p><img align>="right" src="https://github.com/flasgem-web/practic/blob/main/graph_demo.gif" width="500" height="320" /></p>
 
 -----
 
